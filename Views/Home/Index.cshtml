@@ -1,0 +1,113 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    /* animating div during hover, basicly it should be in other file but some how it doesn't work. temporary i put this here */
+    .hov {
+        transition: transform 0.3s ease !important;
+    }
+
+        .hov:hover {
+            transform: scale(1.1) !important;
+        }
+</style>
+<div class="container">
+    <div class="row">
+        <div class="col-12 text-center">
+
+
+            <img src="~/img/logo/logo4.png" style="width: 150px " />
+        </div>
+    </div>
+    <div class="row mt-3 mt-lg-5 mt-xl-5 mt-md-4 shadow p-3 mb-5 bg-white rounded">
+        <div class="col-12">
+            <h4 class="text-secondary text-left">
+                Welcome to our Book Management Application
+            </h4>
+        </div>
+        <div class="col-12">
+            <p class="text-justify">
+                Our Book Management Application is designed to provide a seamless experience for managing your book collection.Whether you're a book enthusiast, librarian, or simply someone who loves organizing, our application offers a robust set of features to help you keep track of all your favorite reads.
+            </p>
+        </div>
+    </div>
+ 
+  
+    <div class="row mt-1 mt-lg-3 mt-xl-3 mt-md-2 p-3">
+        <div class="col-12 text-secondary text-left pb-2" style=" z-index: 2;">
+            <h4>Select one of the modules:</h4>
+        </div>
+
+        <div class="col-lg-6 col-xl-6 col-12 text-center shadow p-3 mb-5 bg-white rounded hov" style="cursor: pointer">
+            <a href="/Books/Index">
+                <div class="col-12 p-0">
+                    <img src="~/img/img/picture4.png" style="width: 90%;"/>
+                </div>
+                <div class="col-12 text-center">
+                    <h4 class="nav-link text-secondary text-center">
+                        View book list
+                    </h4>
+                </div>
+            </a>
+        </div>
+        
+        <div class="col-lg-6 col-xl-6 col-12 text-center shadow p-3 mb-5 bg-white rounded hov" style="cursor: pointer" data-action="Create" data-controller="Books">
+            <a href="/Books/Create">
+                <div class="col-12 p-0">
+                    <img src="~/img/img/stock-photo6-2.jpg" style="width: 90%;"/>
+                </div>
+                <div class="col-12 text-center">
+                    <h4 class="text-center nav-link text-secondary">
+                        Add book to list
+                    </h4>
+                </div>
+            </a>
+        </div>
+    </div>
+
+
+    <div class="row  mt-1 mt-lg-3 mt-xl-3 mt-md-2 shadow p-3 mb-5 bg-white rounded">
+        <div class="col-12">
+            <h4 class="text-secondary text-left">
+                Key Features:
+            </h4>
+        </div>
+        <div class="col-12">
+            <ul class="list-group">
+                <li class="list-group-item">
+                    <h5>Book Listing:</h5>
+                    <p>View a comprehensive list of all your books, including titles, authors, publication years, ISBNs, and page counts.</p>
+                </li>
+                <li class="list-group-item">
+                    <h5>Add New Books:</h5>
+                    <p>Easily add new books to your collection using our intuitive form.</p>
+                </li>
+                <li class="list-group-item">
+                    <h5>Edit Book Details:</h5>
+                    <p>Update existing book information such as titles, authors, years, ISBNs, and page counts.</p>
+                </li>
+                <li class="list-group-item">
+                    <h5>Delete Books:</h5>
+                    <p>Remove books from your collection when no longer needed.</p>
+                </li>
+                <li class="list-group-item">
+                    <h5>Responsive Design:</h5>
+                    <p>Built with Bootstrap and CSS, ensuring a sleek and responsive user interface across all devices.</p>
+                </li>
+                <li class="list-group-item">
+                    <h5>AJAX and jQuery:</h5>
+                    <p>Utilizes asynchronous JavaScript requests for seamless user interactions without page reloads.</p>
+                </li>
+    </ul>
+</div>
+    </div>
+    <div class="row mt-5">
+        <div class="col-12">
+            <div class="text-center">
+                <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bergu\\source\\repos\\BookList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|c:\\users\\bergu\\source\\repos\\booklist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|c:\\users\\bergu\\source\\repos\\booklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|c:\\users\\bergu\\source\\repos\\booklist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|c:\\users\\bergu\\source\\repos\\booklist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|c:\\users\\bergu\\source\\repos\\booklist\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|c:\\users\\bergu\\source\\repos\\booklist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|c:\\users\\bergu\\source\\repos\\booklist\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|solutionrelative:views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|c:\\users\\bergu\\source\\repos\\booklist\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|c:\\users\\bergu\\source\\repos\\booklist\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|c:\\users\\bergu\\source\\repos\\booklist\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|solutionrelative:data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|c:\\users\\bergu\\source\\repos\\booklist\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|c:\\users\\bergu\\source\\repos\\booklist\\models\\dtos\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|solutionrelative:models\\dtos\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|c:\\users\\bergu\\source\\repos\\booklist\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|c:\\users\\bergu\\source\\repos\\booklist\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB8185EE-962A-4217-8E11-563F3DBD7F08}|BookList.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bergu\\source\\repos\\BookList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bergu\\source\\repos\\BookList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:21:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bergu\\source\\repos\\BookList\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bergu\\source\\repos\\BookList\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-29T08:20:12.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\bergu\\source\\repos\\BookList\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\bergu\\source\\repos\\BookList\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T06:15:15.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\bergu\\source\\repos\\BookList\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\bergu\\source\\repos\\BookList\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-28T19:38:02.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bergu\\source\\repos\\BookList\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bergu\\source\\repos\\BookList\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwD8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T16:27:01.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bergu\\source\\repos\\BookList\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bergu\\source\\repos\\BookList\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "Views\\Books\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T15:44:23.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\bergu\\source\\repos\\BookList\\Models\\DTOs\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Book.cs",
+              "ToolTip": "C:\\Users\\bergu\\source\\repos\\BookList\\Models\\DTOs\\Book.cs",
+              "RelativeToolTip": "Models\\DTOs\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:42:06.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\bergu\\source\\repos\\BookList\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\bergu\\source\\repos\\BookList\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T14:30:09.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\bergu\\source\\repos\\BookList\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\bergu\\source\\repos\\BookList\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwD4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:19:56.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bergu\\source\\repos\\BookList\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bergu\\source\\repos\\BookList\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Books\\Edit.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T19:59:25.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\bergu\\source\\repos\\BookList\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\bergu\\source\\repos\\BookList\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:10:37.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bergu\\source\\repos\\BookList\\Data\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\BookDbContext.cs",
+              "ToolTip": "C:\\Users\\bergu\\source\\repos\\BookList\\Data\\BookDbContext.cs",
+              "RelativeToolTip": "Data\\BookDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA4wAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:57:09.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bergu\\source\\repos\\BookList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bergu\\source\\repos\\BookList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T18:12:48.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bergu\\source\\repos\\BookList\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bergu\\source\\repos\\BookList\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Views\\Books\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T18:12:32.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
